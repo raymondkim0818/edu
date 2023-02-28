@@ -1,2 +1,2 @@
-# edu
+# github edu
 github test
